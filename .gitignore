@@ -1,2 +1,4 @@
+# gitignore for cooljeanius.github.com
+
 *DS_Store*
 */Contents/MacOS/*
